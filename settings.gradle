@@ -1,0 +1,3 @@
+rootProject.name='RTSPClient'
+include ':app'
+include ':rtspclient'
